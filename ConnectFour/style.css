@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+}
+
+table{
+  /* border: 2px solid black; */
+  width:300px;
+  height:100px;
+}
+
+.dot {
+  height: 50px;
+  width: 50px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
